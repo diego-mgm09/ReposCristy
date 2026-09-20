@@ -1235,10 +1235,10 @@ nav,
 
 .banner {
     position: relative;
-    background: url(imgs/headers/banner.webp);
+    background: url(imgs/headers/banner.png);
     height: 60vh;
     background-size: cover;
-    background-position: bottom;
+    background-position: center;
 }
 
 
